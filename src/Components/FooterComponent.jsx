@@ -134,8 +134,7 @@ export default function FooterComponent() {
                 {/* ============ BOTTOM — copyright ============ */}
                 <div className="footer-bottom anim-item">
                     <p className="footer-copyright">
-                        Copyright © Tensilesecurity&nbsp;&nbsp;|&nbsp;&nbsp;Designed and developed by{" "}
-                        <Link to="/" className="footer-copyright-link">Lazic</Link>
+                        Copyright © TG Security&nbsp;&nbsp;|&nbsp;&nbsp;Designed and developed by Lazic
                     </p>
                 </div>
             </div>
