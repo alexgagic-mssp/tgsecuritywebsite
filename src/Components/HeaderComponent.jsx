@@ -298,7 +298,7 @@ function HeaderComponent({ children, ruta = "/", pageHeaderText, HeaderText, lin
         <header ref={headerRef} className={headerClass}>
           <div className="header-inner">
             <Link to={ruta} className="header-logo-link" onClick={closeAll} aria-label="Investflow — početna">
-              <img className="header-logo-white" src="/src/assets/logo-gagi-light.png" alt="" />
+              <img className="header-logo-white" src="/images/logo-gagi-light.png" alt="" />
               <img className="header-logo-dark" src="/images/logo-gagi-dark.png" alt="" aria-hidden="true" />
             </Link>
 
